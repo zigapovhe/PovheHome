@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PovheHome</string>
+    <string name="channel_name">RaspberryPi Alerts</string>
+    <string name="channel_description">Alerts send from my Raspberry Pi 3</string>
+    <string name="slogan">Controlling my home with the taps of my fingers</string>
+    <string name="light">Luč</string>
+    <string name="computer">Ziga-PC</string>
+    <string name="garage">Garaža</string>
 </resources>
