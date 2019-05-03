@@ -6,6 +6,3 @@ Expect an update with real-time sensor values
 
 
 <img src="https://i.imgur.com/ZqcZBSL.png" alt="app screenshot" height="700px"/>
-
-
-
