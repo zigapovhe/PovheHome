@@ -6,4 +6,7 @@
     <string name="light">Luč</string>
     <string name="computer">Ziga-PC</string>
     <string name="garage">Garaža</string>
+    <string name="finger_auth">Please authenticate with your finger!</string>
+    <string name="hidden_msg">In case you cannot see fingerprint auth, click button below</string>
+    <string name="retryBtn">Click me!</string>
 </resources>
